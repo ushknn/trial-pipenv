@@ -13,5 +13,3 @@ python のライブラリ管理
 テスト実行
 ### 5. github actions
 テストの自動実行
-
-### sss
