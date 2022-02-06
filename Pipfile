@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pytest = "*"
 flake8 = "*"
+sktime = "*"
 
 [dev-packages]
 black = "*"
