@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pytest = "*"
 flake8 = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 black = "*"
