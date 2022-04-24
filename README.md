@@ -19,7 +19,7 @@ python のライブラリ管理
 1. コンテナ起動してコンテナ内に入る
 ```
 $ docker-compose up -d
-$ docker-compose exec bash
+$ docker-compose exec app bash
 ```
 
 2. コンテナ内で以下実行
