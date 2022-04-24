@@ -26,7 +26,7 @@ $ docker-compose exec bash
 ```
 # pipenv install
 # pipenv shell
-# jupyter notebook --ip=0.0.0.0 --allow-root --NotebookApp.token=''
+# jupyter notebook --ip=0.0.0.0 --allow-root --NotebookApp.token='' --notebook-dir 'works'
 ```
 
 3. `localhost:8888`にブラウザでアクセス
