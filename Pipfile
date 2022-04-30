@@ -8,6 +8,8 @@ pytest = "*"
 flake8 = "*"
 jupyter = "*"
 notebook = "*"
+numpy = "*"
+pandas = "*"
 
 [dev-packages]
 black = "*"
