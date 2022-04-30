@@ -11,6 +11,7 @@ notebook = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 black = "*"
