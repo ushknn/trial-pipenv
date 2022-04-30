@@ -10,6 +10,7 @@ jupyter = "*"
 notebook = "*"
 numpy = "*"
 pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
 black = "*"
